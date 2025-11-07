@@ -6,8 +6,8 @@
 
 ## 🧠 Giới thiệu bản thân
 
-Xin chào! Mình là **Trần Văn Điệp**, CEO & Founder tại **[Gozic.,JSC](https://gozic.vn)** và **Trắc Nghiệm Việt**.  
-Hiện mình là **Senior Full Stack Developer**, chuyên sâu về:
+Xin chào! Mình là **Trần Văn Điệp**, Founder tại **[QViet](https://qviet.vn)** và **Trắc Nghiệm Việt**.  
+Hiện mình là **Solution Architecture Developer | Mobile Leader**, chuyên sâu về:
 
 - Mobile (Android & iOS)
 - Backend (Laravel, Kotlin, Java, PHP)
@@ -71,16 +71,17 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ## 📫 Liên hệ
 
-- 🌍 Website: [https://gozic.vn](https://gozic.vn)
-- 🎥 YouTube: [Trần Văn Điệp Dev](https://www.youtube.com/@tranvandiepdev)
-- 💼 LinkedIn: [linkedin.com/in/tranvandiep](https://linkedin.com/in/tranvandiep)
-- 💌 Email: tranvandiep.dev@gmail.com
+- 🌍 Website: [https://QViet.vn](https://qviet.vn)
+- 🎥 YouTube: [Trần Văn Điệp](https://www.youtube.com/@dieptv.official)
+- 🎥 Tiktok: [Trần Văn Điệp](https://www.tiktok.com/@tranvandiep.official)
+- 💼 LinkedIn: [https://www.linkedin.com/in/tranvandiep-it/](https://www.linkedin.com/in/tranvandiep-it/)
+- 💌 Email: tranvandiep.it@gmail.com
 
 ---
 
 <div align="center">
   
 ### 💬 “Kiến thức chỉ thật sự có giá trị khi được sẻ chia.”  
-Made with ❤️ by [**Trần Văn Điệp**](https://gozic.vn)
+Made with ❤️ by [**Trần Văn Điệp**](https://qviet.vn)
 
 </div>
