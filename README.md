@@ -29,10 +29,9 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 | 4 | [![Hướng dẫn thiết kế layout - HTML/CSS/JS](https://img.youtube.com/vi/Be6OHO_mHHw/0.jpg)](https://www.youtube.com/watch?v=Be6OHO_mHHw)<br>**Phần 19 | Hướng dẫn thiết kế layout - Lập trình HTML/CSS/JS** | [👉 Xem video](https://www.youtube.com/watch?v=Be6OHO_mHHw) |
 | 5 | [![Học Java Swing - Phần 34](https://img.youtube.com/vi/qz5daJNCUj0/0.jpg)](https://www.youtube.com/watch?v=qz5daJNCUj0)<br>**PHẦN 34 | Hướng dẫn học Java Swing** | [👉 Xem video](https://www.youtube.com/watch?v=qz5daJNCUj0) |
 | 6 | [![Web Service C1803L Phần 1](https://img.youtube.com/vi/KBEtTCI74Ic/0.jpg)](https://www.youtube.com/watch?v=KBEtTCI74Ic)<br>**Share Code - Bài giảng Web Service - C1803L - Phần 1** | [👉 Xem video](https://www.youtube.com/watch?v=KBEtTCI74Ic) |
-| 7 | [![Tổng quan Java cơ bản](https://img.youtube.com/vi/mrqVTfpRZCo/0.jpg)](https://www.youtube.com/watch?v=mrqVTfpRZCo)<br>**Java - 00: Tổng quan về loạt bài Học lập trình Java từ cơ bản** | [👉 Xem video](https://www.youtube.com/watch?v=mrqVTfpRZCo) |
-| 8 | [![Cài đặt môi trường C](https://img.youtube.com/vi/XyOfJfySgGY/0.jpg)](https://www.youtube.com/watch?v=XyOfJfySgGY)<br>**Phần 3 | Hướng dẫn cài đặt môi trường lập trình C** | [👉 Xem video](https://www.youtube.com/watch?v=XyOfJfySgGY) |
-| 9 | [![Học Bootstrap qua ví dụ 3](https://img.youtube.com/vi/KBEhlAoMzXM/0.jpg)](https://www.youtube.com/watch?v=KBEhlAoMzXM)<br>**Học Bootstrap qua ví dụ 3 (Khóa học Bootstrap)** | [👉 Xem video](https://www.youtube.com/watch?v=KBEhlAoMzXM) |
-| 10 | [![Khoá học GokiSoft](https://img.youtube.com/vi/mX7zjUKKVoc/0.jpg)](https://www.youtube.com/watch?v=mX7zjUKKVoc)<br>**[Premium] Khoá Học Lập Trình - GokiSoft.com** | [👉 Xem video](https://www.youtube.com/watch?v=mX7zjUKKVoc) |
+| 7 | [![Cài đặt môi trường C](https://img.youtube.com/vi/XyOfJfySgGY/0.jpg)](https://www.youtube.com/watch?v=XyOfJfySgGY)<br>**Phần 3 | Hướng dẫn cài đặt môi trường lập trình C** | [👉 Xem video](https://www.youtube.com/watch?v=XyOfJfySgGY) |
+| 8 | [![Học Bootstrap qua ví dụ 3](https://img.youtube.com/vi/KBEhlAoMzXM/0.jpg)](https://www.youtube.com/watch?v=KBEhlAoMzXM)<br>**Học Bootstrap qua ví dụ 3 (Khóa học Bootstrap)** | [👉 Xem video](https://www.youtube.com/watch?v=KBEhlAoMzXM) |
+| 9 | [![Khoá học GokiSoft](https://img.youtube.com/vi/mX7zjUKKVoc/0.jpg)](https://www.youtube.com/watch?v=mX7zjUKKVoc)<br>**[Premium] Khoá Học Lập Trình - GokiSoft.com** | [👉 Xem video](https://www.youtube.com/watch?v=mX7zjUKKVoc) |
 
 ---
 
