@@ -21,16 +21,15 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ## 🎬 Danh sách video nổi bật
 
-| # | Video | Xem ngay |
-|:-:|:-------|:----------|
-| 1 | [![8 \"Shocking\" Logical Questions](https://img.youtube.com/vi/yD8tKp3hhw0/0.jpg)](https://www.youtube.com/watch?v=yD8tKp3hhw0)<br>**8 \"Shocking\" Logical Questions During Programming Interviews (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=yD8tKp3hhw0) |
-| 2 | [![Một ngày học lập trình cùng mình nhé!!!](https://img.youtube.com/vi/Ngsbl5UHqQ8/0.jpg)](https://www.youtube.com/watch?v=Ngsbl5UHqQ8)<br>**Một ngày học lập trình cùng mình nhé!!! (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=Ngsbl5UHqQ8) |
-| 3 | [![Câu hỏi thuật toán đầu tiên khi tôi đi làm](https://img.youtube.com/vi/zEJ_GGa44Vo/0.jpg)](https://www.youtube.com/watch?v=zEJ_GGa44Vo)<br>**Câu hỏi thuật toán đầu tiên khi tôi đi làm — nhớ mãi đến giờ!** | [👉 Xem video](https://www.youtube.com/watch?v=zEJ_GGa44Vo) |
-| 4 | [![Hướng dẫn thiết kế layout - HTML/CSS/JS](https://img.youtube.com/vi/Be6OHO_mHHw/0.jpg)](https://www.youtube.com/watch?v=Be6OHO_mHHw)<br>**Hướng dẫn thiết kế layout - Lập trình HTML/CSS/JS** | [👉 Xem video](https://www.youtube.com/watch?v=Be6OHO_mHHw) |
-| 5 | [![Học Java Swing - Phần 34](https://img.youtube.com/vi/qz5daJNCUj0/0.jpg)](https://www.youtube.com/watch?v=qz5daJNCUj0)<br>**Hướng dẫn học Java Swing** | [👉 Xem video](https://www.youtube.com/watch?v=qz5daJNCUj0) |
-| 6 | [![Cài đặt môi trường C](https://img.youtube.com/vi/XyOfJfySgGY/0.jpg)](https://www.youtube.com/watch?v=XyOfJfySgGY)<br>**Hướng dẫn cài đặt môi trường lập trình C** | [👉 Xem video](https://www.youtube.com/watch?v=XyOfJfySgGY) |
-| 7 | [![Học Bootstrap qua ví dụ 3](https://img.youtube.com/vi/KBEhlAoMzXM/0.jpg)](https://www.youtube.com/watch?v=KBEhlAoMzXM)<br>**Học Bootstrap qua ví dụ 3 (Khóa học Bootstrap)** | [👉 Xem video](https://www.youtube.com/watch?v=KBEhlAoMzXM) |
-
+| Video | Xem ngay |
+|:-------|:----------|
+| [![8 \"Shocking\" Logical Questions](https://img.youtube.com/vi/yD8tKp3hhw0/0.jpg)](https://www.youtube.com/watch?v=yD8tKp3hhw0)<br>**8 \"Shocking\" Logical Questions During Programming Interviews (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=yD8tKp3hhw0) |
+| [![Một ngày học lập trình cùng mình nhé!!!](https://img.youtube.com/vi/Ngsbl5UHqQ8/0.jpg)](https://www.youtube.com/watch?v=Ngsbl5UHqQ8)<br>**Một ngày học lập trình cùng mình nhé!!! (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=Ngsbl5UHqQ8) |
+| [![Câu hỏi thuật toán đầu tiên khi tôi đi làm](https://img.youtube.com/vi/zEJ_GGa44Vo/0.jpg)](https://www.youtube.com/watch?v=zEJ_GGa44Vo)<br>**Câu hỏi thuật toán đầu tiên khi tôi đi làm — nhớ mãi đến giờ!** | [👉 Xem video](https://www.youtube.com/watch?v=zEJ_GGa44Vo) |
+| [![Hướng dẫn thiết kế layout - HTML/CSS/JS](https://img.youtube.com/vi/Be6OHO_mHHw/0.jpg)](https://www.youtube.com/watch?v=Be6OHO_mHHw)<br>**Hướng dẫn thiết kế layout - Lập trình HTML/CSS/JS** | [👉 Xem video](https://www.youtube.com/watch?v=Be6OHO_mHHw) |
+| [![Học Java Swing - Phần 34](https://img.youtube.com/vi/qz5daJNCUj0/0.jpg)](https://www.youtube.com/watch?v=qz5daJNCUj0)<br>**Hướng dẫn học Java Swing** | [👉 Xem video](https://www.youtube.com/watch?v=qz5daJNCUj0) |
+| [![Cài đặt môi trường C](https://img.youtube.com/vi/XyOfJfySgGY/0.jpg)](https://www.youtube.com/watch?v=XyOfJfySgGY)<br>**Hướng dẫn cài đặt môi trường lập trình C** | [👉 Xem video](https://www.youtube.com/watch?v=XyOfJfySgGY) |
+| [![Học Bootstrap qua ví dụ 3](https://img.youtube.com/vi/KBEhlAoMzXM/0.jpg)](https://www.youtube.com/watch?v=KBEhlAoMzXM)<br>**Học Bootstrap qua ví dụ 3 (Khóa học Bootstrap)** | [👉 Xem video](https://www.youtube.com/watch?v=KBEhlAoMzXM) |
 ---
 
 ## 🧰 Kỹ năng & Công nghệ
