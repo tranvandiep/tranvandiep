@@ -6,7 +6,7 @@
 
 ## 🧠 Giới thiệu bản thân
 
-Xin chào! Mình là **Trần Văn Điệp**, Founder tại **[QViet](https://qviet.vn)** và **Trắc Nghiệm Việt**.  
+Xin chào! Mình là **Trần Văn Điệp**, Founder tại **[QViet.vn](https://qviet.vn)**.  
 Hiện mình là **Solution Architecture Developer | Mobile Leader**, chuyên sâu về:
 
 - Mobile (Android & iOS)
