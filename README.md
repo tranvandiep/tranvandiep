@@ -23,8 +23,6 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 <div align="center">
 
-![tran-van-diep](https://cdn.gozic.vn/uploads/stores/49/2025/10/tran-van-diep.png)
-  
 ### `Code.` `Learn.` `Share.`  
 🌱 Không ngừng học hỏi – Không ngừng sáng tạo – Không ngừng sẻ chia 🌱
 
