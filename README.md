@@ -19,17 +19,6 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ---
 
-## 🚀 Slogan
-
-<div align="center">
-
-### `Code.` `Learn.` `Share.`  
-🌱 Không ngừng học hỏi – Không ngừng sáng tạo – Không ngừng sẻ chia 🌱
-
-</div>
-
----
-
 ## 🏗️ Dự án tiêu biểu
 
 | Tên Dự Án | Mô Tả | Công Nghệ |
