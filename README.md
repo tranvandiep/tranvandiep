@@ -19,18 +19,6 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ---
 
-## 🏗️ Dự án tiêu biểu
-
-| Tên Dự Án | Mô Tả | Công Nghệ |
-|------------|-------|------------|
-| **Education Website System** | Nền tảng tạo website trường học động, quản lý lớp, học viên, giáo viên, CV online. <br>🔗 [gokisoft.com/cv/dieptran](https://gokisoft.com/cv/dieptran) | Laravel, ReactJS, Google Cloud |
-| **Dynamic eCommerce App System** | CMS Website & App Android/iOS tự động build & triển khai. <br>📱 [Android](https://play.google.com/store/apps/details?id=com.ziczacgroup.mobileapp) – [iOS](https://apps.apple.com/vn/app/gokisoft.com/id1613031616) | Flutter, Laravel, ReactJS |
-| **Dynamic Website / CRM System** | Quản lý website đa ngôn ngữ, đơn hàng, khách hàng. <br>🌐 bephoaphat.com, ngon1.vn | Laravel, ReactJS |
-| **Note Everything** | Ứng dụng ghi chú cá nhân đa nền tảng. <br>📱 [Android](https://play.google.com/store/apps/details?id=com.wrap.apps.note) – [iOS](https://apps.apple.com/vn/app/note-everything/id6479020525) | Flutter, PHP/Laravel |
-| **Tử Vi Chân Cơ** | Ứng dụng xem lá số tử vi, tiểu hạn, đại hạn, tin tức, thông báo. | Flutter, Laravel, Swift |
-
----
-
 ## 🧰 Kỹ năng & Công nghệ
 
 <div align="center">
