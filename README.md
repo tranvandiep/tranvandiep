@@ -35,6 +35,6 @@ Patchy rain nearby
 
 <div align="right">
 
-*Updated at: 2025-11-07T02:13:58Z - by **[QViet.vn/weather-forecast](QViet.vn)***
+*Updated at: 2025-11-07T02:13:58Z - by **[QViet.vn/weather-forecast](https://qviet.vn)***
 
 </div>
