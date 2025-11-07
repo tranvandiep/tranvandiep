@@ -39,27 +39,10 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 ## 🖼️ Thư viện hình ảnh
 
 <div align="center">
-
-  <img src="https://gokisoft.com/uploads/stores/49/2023/09/tran-van-diep-01.jpeg" 
-       width="200" height="150" 
-       style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.25); margin:8px; transition:transform 0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-
-  <img src="https://gokisoft.com/uploads/stores/49/2022/03/teacher-tran-van-diep-aptech-54-le-thanh-nghi-07.jpeg" 
-       width="200" height="150" 
-       style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.25); margin:8px; transition:transform 0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-
-  <img src="https://gokisoft.com/uploads/stores/49/2023/09/tran-van-diep-03.jpg" 
-       width="200" height="150" 
-       style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.25); margin:8px; transition:transform 0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-
-  <img src="https://gokisoft.com/uploads/stores/49/2022/03/teacher-tran-van-diep-aptech-54-le-thanh-nghi-05.jpeg" 
-       width="200" height="150" 
-       style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.25); margin:8px; transition:transform 0.3s;"
-       onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-
+  <img src="https://gokisoft.com/uploads/stores/49/2023/09/tran-van-diep-01.jpeg" width="180" height="200" style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:8px; object-fit: cover;">
+  <img src="https://gokisoft.com/uploads/stores/49/2022/03/teacher-tran-van-diep-aptech-54-le-thanh-nghi-07.jpeg" width="180" height="200" style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:8px; object-fit: cover;">
+  <img src="https://gokisoft.com/uploads/stores/49/2023/09/tran-van-diep-03.jpg" width="180" height="200" style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:8px; object-fit: cover;">
+  <img src="https://gokisoft.com/uploads/stores/49/2022/03/teacher-tran-van-diep-aptech-54-le-thanh-nghi-05.jpeg" width="180" height="200" style="border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.3); margin:8px; object-fit: cover;">
 </div>
 
 ---
