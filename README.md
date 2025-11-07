@@ -46,7 +46,7 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ## 📫 Liên hệ
 
-- 🌍 Website: [https://QViet.vn](https://qviet.vn)
+- 🌍 Website: [https://qviet.vn](https://qviet.vn)
 - 🎥 YouTube: [Trần Văn Điệp](https://www.youtube.com/@dieptv.official)
 - 🎥 Tiktok: [Trần Văn Điệp](https://www.tiktok.com/@tranvandiep.official)
 - 💼 LinkedIn: [https://www.linkedin.com/in/tranvandiep-it/](https://www.linkedin.com/in/tranvandiep-it/)
