@@ -19,20 +19,6 @@ Luôn mong muốn **chia sẻ kiến thức thực chiến** từ dự án doanh
 
 ---
 
-## 🎬 Danh sách video nổi bật
-
-| Video | Xem ngay |
-|:-------|:----------|
-| [<img src="https://img.youtube.com/vi/yD8tKp3hhw0/0.jpg" height="200">](https://www.youtube.com/watch?v=yD8tKp3hhw0)<br>**8 "Shocking" Logical Questions During Programming Interviews (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=yD8tKp3hhw0) |
-| [<img src="https://img.youtube.com/vi/Ngsbl5UHqQ8/0.jpg" height="200">](https://www.youtube.com/watch?v=Ngsbl5UHqQ8)<br>**Một ngày học lập trình cùng mình nhé!!! (Short)** | [👉 Xem video](https://www.youtube.com/watch?v=Ngsbl5UHqQ8) |
-| [<img src="https://img.youtube.com/vi/zEJ_GGa44Vo/0.jpg" height="200">](https://www.youtube.com/watch?v=zEJ_GGa44Vo)<br>**Câu hỏi thuật toán đầu tiên khi tôi đi làm — nhớ mãi đến giờ!** | [👉 Xem video](https://www.youtube.com/watch?v=zEJ_GGa44Vo) |
-| [<img src="https://img.youtube.com/vi/w354JcsOvWo/0.jpg" height="200">](https://www.youtube.com/watch?v=w354JcsOvWo)<br>**Bài tập quản lý sinh viên + CSDL + Java Swing - Khóa học lập trình Java nâng cao** | [👉 Xem video](https://www.youtube.com/watch?v=w354JcsOvWo) |
-| [<img src="https://img.youtube.com/vi/XZnfYMk42PE/0.jpg" height="200">](https://www.youtube.com/watch?v=XZnfYMk42PE)<br>**Giới thiệu dự án-công nghệ sử dụng - phân tích chức năng dự án - Website bán hàng PHP/MySQL** | [👉 Xem video](https://www.youtube.com/watch?v=XZnfYMk42PE) |
-| [<img src="https://img.youtube.com/vi/5JzF6ydNUA8/0.jpg" height="200">](https://www.youtube.com/watch?v=5JzF6ydNUA8)<br>**Hướng dẫn cài đặt dự án từ source code mẫu - Web bán hàng PHP/MySQL** | [👉 Xem video](https://www.youtube.com/watch?v=5JzF6ydNUA8) |
-| [<img src="https://img.youtube.com/vi/CZJYDY_5Ndw/0.jpg" height="200">](https://www.youtube.com/watch?v=CZJYDY_5Ndw)<br>**2 Phút biết tất tần tật về Firebase FCM - Firebase Cloud Messaging (FCM) – Push Notification** | [👉 Xem video](https://www.youtube.com/watch?v=CZJYDY_5Ndw) |
-
----
-
 ## 🧰 Kỹ năng & Công nghệ
 
 <div>
